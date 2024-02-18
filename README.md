@@ -31,5 +31,5 @@ all: Executes all targets.
 clean: Cleans up temporary files and directories.
 
 Script:
-assignment12.py
+https://github.com/18691A05H8/iris-classification/blob/main/iris_code.py
 
